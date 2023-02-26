@@ -1,5 +1,5 @@
-node_modules
-package-lock.json
-yarn.lock
-process.json
+/node_modules
+/package-lock.json
+/yarn.lock
+/process.json
 /.idea
